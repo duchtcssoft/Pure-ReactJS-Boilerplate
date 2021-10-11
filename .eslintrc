@@ -78,10 +78,6 @@
     "no-shadow": 0,
     "no-alert": 1,
     "eslint-comments/no-unlimited-disable": 0,
-    "comma-dangle": 0,
-    "arrow-parens": 0,
-    "no-undef": 0,
-    "no-confusing-arrow": 0,
     "newline-before-return": 0,
     "jsx-a11y/label-has-associated-control": 0
   }
